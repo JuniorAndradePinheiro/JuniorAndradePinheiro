@@ -12,7 +12,6 @@
 
 - <p align="justify">📫 Você pode falar comigo me mandando um email para <b><a href=mailto:antonio.carlos_ap@outlook.com?subject=subject text">antonio.carlos_ap@outlook.com</a></b> ou se preferir me chamando para uma conversa no chat do <b><a href="//www.linkedin.com/in/ant%C3%B4nio-carlos-andrade-pinheiro-b03911116/">Linkedin</a></b> :wink:</p>
 
-<hr>
 
 ### Algumas Skills:
 -	Java 8, Javascript e Google Apps Script; 
@@ -27,3 +26,4 @@
 -	Docker. 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuniorAndradePinheiro&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorAndradePinheiro&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
