@@ -1,4 +1,4 @@
-# <p align = "justify">Olá, eu sou o Antônio Carlos , mas pode me chamar de Junior!!! 👋
+# <p align = "center"> Olá, eu sou o Antônio Carlos, mas pode me chamar de Junior!!! 👋
 ### Seja bem vindo ao meu perfil!!!</p>
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/JuniorAndradePinheiro)](https://github.com/JuniorAndradePinheiro)
