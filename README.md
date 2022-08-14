@@ -1,5 +1,5 @@
-# Junior Andrade Pinheiro 👋
-### Seja bem vindo ao meu perfil!!!
+# <p align = "justify">Olá, eu sou o Antônio Carlos , mas pode me chamar de Junior!!! 👋
+### Seja bem vindo ao meu perfil!!!</p>
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/JuniorAndradePinheiro)](https://github.com/JuniorAndradePinheiro)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ant%C3%B4nio-carlos-andrade-pinheiro-b03911116/)](https://www.linkedin.com/in/ant%C3%B4nio-carlos-andrade-pinheiro-b03911116/)
